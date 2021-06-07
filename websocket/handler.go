@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/gobwas/ws"
+	"github.com/tahir-kali/ws"
 	"github.com/mailru/easygo/netpoll"
 	"github.com/tahir-kali/gws/pool"
 )
