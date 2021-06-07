@@ -1,3 +1,3 @@
-module github.com/tahir-kali/gws/websocket
+module github.com/gobwas/ws
 
 go 1.15
